@@ -1,0 +1,16 @@
+{
+  "name": "aws-provider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "aws-sdk": "^2.1488.0",
+    "serverless": "^3.36.0",
+    "serverless-offline": "^13.2.0"
+  }
+}

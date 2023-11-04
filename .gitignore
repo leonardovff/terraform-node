@@ -1,0 +1,5 @@
+node_modules
+.terraform
+.serverless
+.terraform.lock.hcl
+code.zip
