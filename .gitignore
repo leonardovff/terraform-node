@@ -3,3 +3,5 @@ node_modules
 .serverless
 .terraform.lock.hcl
 code.zip
+dist
+*.tfvars
